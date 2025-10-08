@@ -1,0 +1,35 @@
+-- Zero-shot prompt:
+I am working on a terminology extraction project that considers the French-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+
+-- One-shot prompt:
+I am working on a terminology extraction project that considers the French-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is an example of term from the ice hockey domain (this term does not appear in the provided sample), for reference: dégagement hybride.
+
+-- Few-shot prompt:
+I am working on a terminology extraction project that considers the French-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the ice hockey domain (these terms do not appear in the provided sample), for reference: dégagement hybride, enclave, lancer balayé, échappée, juge de ligne, changement de ligne.
+
+-- Few-shot prompt + context sentences:
+I am working on a terminology extraction project that considers the French-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the ice hockey domain (these terms do not appear in the provided sample), each accompanied by an example-sentence, for reference: 
+
+Example 1 : dégagement hybride
+Les compétitions étant arbitrées à 2, le dégagement hybride ne s’applique pas.
+
+Example 2: enclave
+Elle est parfois assimilée à tort à l'enclave, zone située devant le territoire de but entre les deux cercles d'engagement.
+
+Example 3: lancer balayé 
+Lancer balayé : Tir effectué suite à un mouvement ferme du poignet sans mouvement de balancier préalable de la crosse.
+
+Example 4: échappée
+Un tir de pénalité peut être accordé dans les situations où le gardien de but commet une faute sur un joueur dans une situation d’échappée, indépendamment du fait que l’infraction soit commise par derrière ou non.
+
+Example 5: juge de ligne 
+Si l’équipe fautive n’est pas en possession du palet, la position de hors jeu sera signalée par un lever de bras du juge de ligne qui diffèrera le hors jeu, laissant une possibilité à l’équipe fautive de ressortir de la zone d’attaque.
+
+Example 6: changement de ligne
+Un changement de joueur au hockey sur glace s'appelle "changement de ligne" puisque généralement les 5 joueurs de champs sont changés simultanément. 
+
+-- Possible follow-up prompts (used with NotebookLM):
+Since you did not provide a single-column output, please provide the output in a comma-separated format.

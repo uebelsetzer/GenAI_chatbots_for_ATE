@@ -1,0 +1,436 @@
+Embaralhe
+cartas de personagens
+jogador
+cartas
+jogadores
+cartas
+viradas para baixo
+cartas
+área de jogo
+Baralho da Corte
+moedas
+jogador
+moedas
+área de jogo
+Tesouro Central
+carta de ajuda
+jogadores
+ações
+personagens
+vencedor
+última partida
+jogador
+ação
+ação de personagem
+jogador
+personagem
+cartas viradas
+para baixo
+blefando
+cartas viradas
+para baixo
+contestado
+contestado
+jogador
+turno
+moedas
+Golpe
+ação
+jogadores
+cubos
+bolsa de Votação
+tabuleiro central
+jogadores
+cubo
+voto
+resultado inicial
+jogadores
+Influência
+jogadores
+cubos de Influência
+jogadores
+Influência
+tabuleiro
+Influência
+jogador
+cubos
+tabuleiro central
+votos
+“A Favor”
+votos
+“Contra”
+PL
+marcador de Política Pública
+marcador de PL
+jogador
+PV
+jogadores
+votos
+“A Favor”
+cubos
+bolsa
+Influência
+PV
+cartas de Incidente
+viradas para cima
+tabuleiro central
+Nova Pauta Política
+carta
+baralho de Pautas Políticas
+virada para cima
+tabuleiro individual
+jogadores
+Cartas de Ação
+cartas de Ação
+baralho
+mão
+cartas
+cartas
+jogadores
+cartas de Ação
+classes
+Capitalista
+Média
+recursos
+Estado
+Estado
+armazenar
+Estado
+Empréstimo
+jogadores
+recursos
+Estado
+armazenar
+Estado
+Estoques
+armazenar
+recursos
+jogadores
+Estado
+Estado
+Empréstimo
+cartas de Ação
+Elevação do IVA
+Ações Básicas
+Estado
+Estado
+benefício
+Legitimidade
+Estado
+ações
+Legitimidade
+Estado
+Legitimidade
+ações
+Fase Tática
+rodada
+Jogador Inicial
+rodada
+jogador
+marcador de primeiro jogador
+jogador
+resposta tática
+rodada
+jogador
+carta de resposta tática
+mão
+Cartas de Resposta Tática
+jogador
+carta de resposta tática
+carta
+jogador inicial
+criatura
+Embaralhe
+cartas de evento
+missão
+cartas de descobertas
+Relatório da Missão
+embaralhe
+cartas de evento
+deck de reconhecimeto
+deck de reconhecimento
+cartas
+peças de Mapa
+efeitos
+Turno Normal
+Descansar
+peças de Mapa
+Movimento
+Movimento
+ação
+combate
+interação
+habitantes locais
+efeitos de movimento
+efeitos
+pontos de
+Movimento
+Mão
+cartas de movimento
+mana
+Poderes de movimento
+ativar
+Unidades
+habilidades de movimento
+efeito
+Movimento X
+pontos de Movimento
+carta
+Ferimento
+jogada de lado
+coluna de movimento
+Movimento
+jogadores
+efeitos especiais
+Cura
+movimento
+pontos de Movimento
+cartas
+efeitos
+miniatura
+pontos de Movimento
+tipo de
+terreno
+Tabuleiro de Dia/Noite
+espaços
+adjacentes
+Tabuleiro de Dia/Noite
+terreno
+Deserto
+Floresta
+Dia
+Noite
+cidade
+tipo de terreno
+local fortificado
+forte
+torre de mago
+cidade
+forte
+jogador
+movimento
+local
+inimigo irascível
+orcs saqueadores
+draconum
+provocar
+inimigo irascível
+espaço adjacente
+ficha
+espaço adjacente
+ficha
+inimigo
+movimento
+local de aventura
+ruínas
+covil de monstros
+nascedouro
+calabouço
+sepulcro
+movimento
+espaço vazio
+fichas de inimigo
+movimento
+peças de Mapa
+peças de Mapa
+adjacente
+bola morta
+atleta
+bola morta
+varão
+Infração por flexão
+atleta
+varão
+varão
+buraco de serviço
+varão
+guarda redes
+bola morta
+linha média
+bola morta
+árbitro
+equipas
+atletas
+equipa
+transição controlada
+em jogo
+varão
+defesa
+equipa adversária
+jogador
+a vez de jogar
+área de jogo
+jogador
+árbitro
+área de jogo
+regulamentos
+evento
+adversário
+jogador
+a vez de jogar
+árbitro
+área de jogo
+partida
+jogadores
+tabuleiro
+partida
+jogador
+local de jogo
+árbitro
+regulamentos
+evento
+jogador
+árbitro
+jogadores
+árbitro
+jogador
+local de jogo
+partida
+adversário
+regulamentos
+evento
+árbitro
+jogador
+árbitro
+pessoa autorizada
+árbitro
+jogador
+jogador
+jogador
+árbitro
+Artigo
+Fumar
+e-cigarros
+local de jogo
+árbitro
+jogadores
+partidas
+espectadores
+adversário
+ofertas de empate
+fonte de ruído
+área de jogo
+Artigos
+penalidades
+Artigo
+jogador
+Leis do Xadrez
+partida
+árbitro
+pontuação
+adversário
+jogadores
+Artigo
+partida
+jogadores
+jogador
+árbitro
+Lei do Xadrez
+clareira
+peças
+carta
+Influenciar
+Ministro
+Pontuar
+carta de ministro
+tabuleiro de facção
+coroa
+nível de ministro
+tabuleiro de facção
+carta de ministro
+PVs
+tabuleiro de facção
+Anoitecer
+Anoitecer
+Descarte
+Cartas Reveladas
+Descarte
+cartas de pássaro
+rodada
+cartas reveladas
+turno
+mão
+Criar
+criar
+cidadelas
+mercados
+Compre
+Descarte
+Compre
+carta
+bônus de compra
+cartas
+mão
+descarte
+cartas
+Conspiração Corvídea
+Conspiração Corvídea
+Floresta da Madeira
+tramas criminosas
+pontos
+marcador de trama
+tramas
+mapa
+pontos
+Distrações
+Conspiração
+Facção
+Habilidades
+Criar
+Conspiração
+cria
+Amanhecer
+marcadores de trama
+Marcadores de Trama
+Conspiração
+marcadores de trama
+Conspiração
+marcadores de trama
+pena
+mapa
+marcador de trama
+virado para cima
+ícone único
+Conspiração
+marcadores
+voltados para baixo
+Posicionamento
+clareira
+marcador de trama
+Ágeis
+Conspiração
+governe
+clareira inicial
+final
+Exposição
+turnos
+comprar
+cartas
+Anoitecer
+jogador inimigo
+peça
+clareira
+marcador de trama
+virado para baixo
+Conspiração
+carta
+marcador de conspiração
+clareira
+Conspiração
+jogador inimigo
+carta
+Conspiração
+jogador inimigo
+marcador de trama
+PV
+efeito
+Agentes Escondidos
+defensor
+batalha
+Conspiração
+marcador de trama
+virado para baixo
+clareira
+batalha
+indefeso
+dano adicional

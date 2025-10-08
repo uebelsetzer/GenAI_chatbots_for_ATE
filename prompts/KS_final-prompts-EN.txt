@@ -1,0 +1,36 @@
+-- Zero-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in kitesurfing. Attached, I am providing a text sample of around 2 thousand tokens from the domain of kitesurfing. Considering the principles of Terminology, I need you to create a comprehensive list of kitesurfing terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+
+-- One-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in kitesurfing. Attached, I am providing a text sample of around 2 thousand tokens from the domain of kitesurfing. Considering the principles of Terminology, I need you to create a comprehensive list of kitsurfing terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is an example of term from the kitesurfing domain (this term does not appear in the provided sample), for reference: leash.
+
+-- Few-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in kitesurfing. Attached, I am providing a text sample of around 2 thousand tokens from the domain of kitesurfing. Considering the principles of Terminology, I need you to create a comprehensive list of kitesurfing terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the kitesurfing domain (these terms do not appear in the provided sample), for reference: leash, kitesurfer, freeride, chickenloop, depower, kiter.
+
+-- Few-shot prompt + context sentences:
+I am working on a terminology extraction project that considers the English-language terminology used in kitesurfing. Attached, I am providing a text sample of around 2 thousand tokens from the domain of kitesurfing. Considering the principles of Terminology, I need you to create a comprehensive list of kitesurfing terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the kitesurfing domain (these terms do not appear in the provided sample), each accompanied by an example-sentence, for reference: 
+
+Example 1: leash
+When you activate the quick release, you leash will pull on one line, which flags out the kite.
+
+Example 2: kitesurfer
+The first step to becoming a kitesurfer is getting the right gear and equipment.
+
+Example 3: freeride
+This system is used mostly in freeride, Big Air and Freestyle disciplines.
+
+Example 4: chickenloop
+The top part of this swivel holds the front lines and the bottom pulley connects to the chickenloop depower rope.
+
+Example 5: depower
+No depower? It might sound wild, but let's break it down.
+
+Example 6: kiter
+Any kiter obviously knows its functions: in connection with the kite lines, it controls the steering direction of the kite, the level of power it generates, and its transfer to the rider for propulsion. 
+
+
+-- Possible follow-up prompts (used with NotebookLM):
+Since you did not provide a single-column output, please provide the output in a comma-separated format.

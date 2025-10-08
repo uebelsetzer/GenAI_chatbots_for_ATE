@@ -1,0 +1,233 @@
+If this is the first play, punch out all the pieces from the game’s
+punchboards. Rather than discarding the empty frames, insert
+them under the vacuum tray inside your game box. This will
+help your tray stay flush with your game’s box top, preventing
+pieces inside from spilling over when storing your game.
+In 3- and 4-player games, each player takes 8 Camels and 1
+Turn marker of the color of his choice
+. The extra pink and
+blue Camels and Turn markers are not used. In 2-player games,
+one player takes all 11 Pink Camels and 2 Turn markers, and the
+other all 11 Blue Camels and 2 Turn markers.
+
+Coins they hold face down (so that the exact amount remains
+secret from other players) until the end of the game.
+Mix all 30 Tiles and place them randomly face up, to form a
+rectangle of 5 x 6 Tiles: This is the Sultanate .
+Mix all 90 wooden Meeples in the bag, then grab and drop
+them in random sets of 3 on each Tile
+.
+Place the Bid Order & Turn Order Tracks next to the Sultanate.
+Take the players’ Turn markers and randomly place them on
+the Bid Order track
+. This will determine in which order the
+players initially bid for position on the Turn Order Track
+.
+Shuffle all Resource cards to form a draw pile face down, then
+draw the top 9 cards and lay them face up in a row, next to the
+draw pile
+.
+Shuffle the Djinns’ cards and set them face down in a draw
+pile, then draw the top 3 and lay them face up next to the draw
+pile .
+Place the Palm Trees, Palaces and all remaining Gold Coins in
+a bank within easy reach of the players
+.
+The game can now start!
+
+
+A Hero makes attacks using either his or her Hero’s Power
+Card powers or the powers of Treasure Cards. Most Power
+Cards are related to the Hero’s class, but some Heroes also have
+a racial power.
+
+Condition: Slowed
+A spider’s web wraps around a Hero, making it difficult for
+the Hero to get away. A massive nets falls from the ceiling and
+entangles the Hero in ropes. These attacks and others like them
+cause a Hero to be Slowed.
+✦ If an attack or other effect causes your Hero to become
+ Slowed, put a Slowed marker on your Hero Card. You can
+ have only one Slowed marker on your Hero Card at a time.
+
+At the start of every adventure, you select Power Cards that
+you have available for that adventure. Set the remaining Power
+Cards aside. For your first few adventures, use the Power Cards
+listed at the front of the Adventure Book. Once you become
+more familiar with the game, you can select which Power Cards
+you want to use.
+
+As you explore the dungeon below Castle Ravenloft, skeletons,
+zombies, and other Monsters emerge to oppose you and your
+allies. You need to defeat the Monsters to complete each
+adventure.
+
+Object of the game
+Players who have the most building tiles of each kind in
+their Alhambra at the right time – in the scoring rounds
+– are awarded points, the exact amount depending on the
+type of building. Players also receive points for the longest
+part of wall they have built around their Alhambra.
+
+There are 6 different kind
+of buildings.
+The table shows the prices
+of the buildings and how
+many of each of the
+buildings there are.
+
+More points are awarded in each scoring round. The winner is the player who has been awarded the most points
+by the end of the game.
+
+
+The Encounter Deck represents the Events, deadly Environments, Traps, and other threats that inhabit the dungeon
+beneath Castle Ravenloft. There are several types of Encounter
+Cards, each with its own special rules. Whenever you draw an
+Encounter Card, apply its effects immediately.
+
+The Treasure Deck represents the magic items and other
+valuables carried by the Monsters or hidden in the dungeon.
+Each Hero starts an adventure with a Treasure Card.
+
+You can cancel an Encounter Card before applying its effects by
+using Experience Points (see page 14).
+Active Hero: Some Encounter Cards use the phrase “active
+Hero”. The Hero played by the player who drew the card is
+always the active Hero that the card refers to.
+Environment: An Environment Card represents a major change
+in the dungeon crypts. Bats might swarm through the corridors,
+or a cloud of thick mist might swirl from chamber to chamber.
+The effects of an Environment Card apply to all Heroes. Place
+the Environment Card where everyone can see it.
+If you draw an Environment Card and there is already one in
+play, discard the old Environment Card and replace it with the
+new one.
+You can cancel an Environment Card with Experience Points,
+just like any other Encounter Card (see page 14). If you cancel
+a new Environment Card when there is already one in play, you
+do not discard the card that was already in play.
+Events: An Event Card is a strange occurrence, a dreadful sight
+or sound, or some other incident that befalls your Hero. An
+Event takes place when you draw the card unless you cancel
+it with Experience Points. Once you have resolved the Event,
+discard it.
+Most Events are yellow cards. A few Events include an attack
+roll against one or more Heroes. These events appear on red
+cards and are called Event—Attacks to distinguish them from
+the Events that don’t include an attack roll.
+
+
+1. Shuffle all the Room cards, and
+place 8 of them facedown as
+indicated. The unused Room cards
+are set aside, facedown.
+2. Reveal the top-left (Start) Room
+card and place your Character
+meeple/token on it. This card is the
+entrance of all Areas.
+
+exit
+
+3. On the Dungeon mat, if the current
+Area has a crimson and gold skull icon, reveal the top Boss card
+on the bottom-right corner. You will have to face it soon.
+Exploration Phase
+4. Resolve the Room card where your Character meeple/token is
+located (see Room Cards).
+5. Once that Room card is resolved, reveal the two nearest Room
+cards if possible: the one to the right and the one below the
+current Room. You must now choose which one of these two
+Rooms you will move to. Your Character can never move
+diagonally, up or left.
+If your Character is in the right column or the bottom row, you
+do not have a choice and must move to the only Room available.
+6. Repeat steps 4 and 5 until you reach the bottom-right (Exit) card.
+If the Boss card was revealed in step 3, resolve it now.
+Afterwards, proceed to the Delving phase. Note: If you defeat the
+final Boss, no need to delve further, you have won!
+8
+
+Delving Phase
+7. Consume 1 Food ration. If you have no Food at the start of the
+Delving phase, you starve and immediately lose 3 HP.
+8. Flip your Character card faceup if it is facedown (see Character
+Classes and Skills).
+9. Move your Adventurer’s cube to the next Area on the
+Dungeon mat.
+10. Remove all the Room cards from the Area, revealed or not, and
+add them to the unused Room cards deck. A new turn begins.
+
+SKILL CHECKS
+While luck may sometimes favor the inexperienced, experts prevail
+even in dire situations.
+Some Room encounters require you to perform a Skill Check (s)
+to resolve them. To perform a Skill Check, roll all your available
+Character dice while simultaneously rolling the Dungeon die. If any
+of the Character dice shows a star icon (t or y), your attempted
+action has succeeded.
+The outcome of the Dungeon die roll will depend on the Room your
+character is currently in, and whether your Skill Check
+was successful or not.
+For example, Martha’s character is Level 2 and must evade a Trap.
+She performs a Skill Check by rolling both her Character dice along
+with the Dungeon die and must get at least one result of t or y to
+successfully evade it.
+The Dungeon die’s result will determine the type of trap triggered if
+her Skill Check is unsuccessful OR the reward obtained if the Skill
+Check is a success.
+
+Grappler: Once per turn: If you find 1 metal
+on a space during the movement phase,
+receive 1 additional metal.
+Solar Panel: Immediately receive 2 energy per solar panel
+(including this one) you have. Your airship’s solar panel
+does not count.
+Capacitor: If, during the movement phase, you have at
+least 5 movement points, receive 2 water. For at least 7
+movement points, either score 2 victory points or receive
+2 water.
+Pilot Insignia: Immediately score 2 victory points per
+movement point from movement upgrades and played
+project cards. Navigation cards and your airship‘s solar
+panel do not count.
+
+Secret Tunnel: If the region in which you collect resources
+provides a wrench, then score 2 victory points, even if you
+are not the active player.
+Green Market: Immediately return 3 new growth tiles to the
+cloth bag and score 7 victory points.
+Biology Text Book: If you, as the active player, plant 2 new
+growths, receive 3 water. If you plant 3 or more, score 3
+victory points (or 3 water).
+Parrot: If you, as the active player, receive the city card
+after collecting resources, you may add it to the top of your
+navigation deck.
+
+All players draw cards and simultaneously make decisions
+as described below. Once everyone has finished, proceed to
+Round Preparation to begin the first round.
+1. Draw 8 Robot Cards. Choose 5 to keep in your hand.
+Discard the rest face-up next to the Robot Card deck.
+2. Draw 2 Class Cards. Choose 1 to keep, placing it face-up
+to the top-left of the Player Board. Discard the other faceup next to the Class Card deck.
+3. Draw 2 Inventor Cards. Choose 1 to keep, placing it
+face-up on the bottom-left of the Player Board in the
+designated area. Discard the other to the Game Box.
+4. Assemble 2 Robot Cards from your hand at no Assembly
+Cost, placing them face-up into your Play Area.
+5. Unlock 1 Upgrade Token at no cost. You may place this
+Upgrade Token before the game begins.
+IMPORTANT: If you place multiple Robot Cards in the same
+row, then you must still pay the Extra Resource Cost indicated
+on your Player Board. At the start of the game, this is
+commonly paid using Duct Tape, but you may also discard a
+Robot Card from your hand.
+
+<p> Score. Spend the same card you reveal (placing in Lost Souls) to score the victory points listed above the rightmost empty Gardens space of the suit matching the revealed card. You may perform this only once per turn per suit. </p>
+<p> Sacrifice. Place a warrior in the Acolytes box. To perform this, you must reveal a bird card. </p>
+<p> Your Evening has three steps in the following order. </p>
+<p> Return Cards. Return all cards that you revealed to your hand. </p>
+<p> Craft. You may craft by activating gardens matching the Outcast suit. </p>
+<p> Draw and Discard. Draw one card, plus one card per uncovered draw bonus. Then, if you have more than five cards in your hand, discard cards of your choice until you have five. </p>
+<p> When news arrived that the Woodland on the shore of the great lake was descending into all-out war, the Riverfolk Company quickly dispatched its officers to set up shop. As other factions purchase services, the Riverfolk will be able to further entrench their commercial interests by building trade posts across the forest. The construction of these posts is a viable way to score victory points, but so too is the raw accumulation of wealth. However, a big treasury makes for an easy target, and so the Riverfolk must balance protecting their growing treasury with expanding of their operations into the more dangerous clearings of the forest. </p>
+<p> Crafting. The Riverfolk craft during Daylight by committing funds to empty spaces on the Trade Posts tracks. </p>

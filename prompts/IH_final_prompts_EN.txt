@@ -1,0 +1,37 @@
+-- Zero-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+
+-- One-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is an example of term from the ice hockey domain (this term does not appear in the provided sample), for reference: hybrid-icing.
+
+-- Few-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the ice hockey domain (these terms do not appear in the provided sample), for reference: hybrid-icing, slot, save, timeout, slashing, crease.
+
+-- Few-shot prompt + context sentences:
+I am working on a terminology extraction project that considers the English-language terminology used in ice hockey. Attached, I am providing a text sample of around 2 thousand tokens from the domain of ice hockey. Considering the principles of Terminology, I need you to create a comprehensive list of ice hockey terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the ice hockey domain (these terms do not appear in the provided sample), each accompanied by an example-sentence, for reference: 
+
+Example 1: hybrid-icing
+If a defending skater is determined to be the first player to potentially touch the puck, then hybrid-icing will be called and play should be stopped.
+
+Example 2: slot 
+When defenders neglect their responsibilities in the slot, it creates an opening for the opposing team to generate quality shots and increase their chances of scoring. 
+
+Example 3: save
+The defending goaltender makes a save and deflects the pucks out of the playing surface, on a puck that is shot in while a player is off-side.
+
+Example 4: timeout 
+Teams can also use a timeout to rest their players after an icing call or use their allotted timeout to prevent their players from becoming fatigued.
+
+Example 5: slashing 
+Though icing is an infraction of the rules of ice hockey, it is not technically considered a penalty in the way that actions like slashing, tripping and boarding are.
+
+Example 6: crease 
+Icing occurs when a player shoots the puck across both the center line and the opposing team's goal line without the puck going through the goal crease. 
+
+
+-- Possible follow-up prompts (used with NotebookLM):
+Since you did not provide a single-column output, please provide the output in a comma-separated format.
+

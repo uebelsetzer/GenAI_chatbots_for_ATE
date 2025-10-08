@@ -1,0 +1,265 @@
+Embaralhe as cartas de personagens e distribua para cada jogador:
+Duas cartas viradas para baixo.
+Os jogadores podem olhar suas cartas a qualquer momento,
+mas devem mantê-las viradas para baixo à sua frente. Coloque
+as cartas restantes na área de jogo formando o Baralho da Corte.
+Duas moedas.
+O dinheiro de cada jogador deve permanecer sempre visível. Coloque
+as moedas restantes na área de jogo formando o Tesouro Central.
+Uma carta de ajuda.
+Esta é apenas para referência. Os jogadores devem se familiarizar
+com todas as ações e personagens antes de começar o jogo.
+O vencedor da última partida é o primeiro a jogar.
+
+Um jogador pode escolher qualquer ação que quiser e puder pagar.
+Se optar por uma ação de personagem o jogador deve declarar
+que aquele personagem influenciado é uma de suas cartas viradas
+para baixo. Ele pode estar dizendo a verdade ou blefando.
+Ele não precisa revelar nenhuma de suas cartas viradas
+para baixo a menos que ele seja contestado.
+Se não for contestado, ele é automaticamente bem sucedido.
+Se um jogador começa o turno com 10(ou mais) moedas ele
+deve dar um Golpe naquele turno como sua única ação.
+
+
+
+Quando todos os jogadores tiverem declarado suas preferências, sorteie 5 cubos da
+bolsa de Votação e coloque-os nos espaços apropriados do tabuleiro central, de acordo
+com as preferências dos jogadores. Cada cubo conta como um voto.
+Esse é o resultado inicial, mas os jogadores têm a opção de modificá-lo gastando
+Influência. Os jogadores anunciam quantos cubos de Influência têm, recolhem todos
+eles em uma das mãos e, em segredo, passam para a outra mão a quantidade que
+desejam gastar. Os jogadores estendem a mão fechada (com a Influência investida)
+acima do tabuleiro e revelam simultaneamente seu conteúdo. Cada Influência investida
+conta como mais um voto para a preferência do jogador. Deposite os cubos nos espaços apropriados do tabuleiro central e contabilize os votos de cada resultado:
+
+• Se a opção “A Favor” tiver votos em quantidade igual ou superior à opção “Contra”, o PL
+
+será aprovado. Mova o marcador de Política Pública para o novo segmento e devolva
+o marcador de PL a seu respectivo jogador. Esse jogador ganha 3 PV imediatamente.
+Os outros jogadores que apoiaram a proposta e tiveram seus votos depositados no
+espaço “A Favor” (sejam cubos provenientes da bolsa ou a Influência investida posteriormente) também ganham 1 PV.
+
+
+
+
+Revele 2 cartas de Incidente e coloque-as viradas para cima nos espaços correspondentes do tabuleiro central.
+Revelar Nova Pauta Política
+Pegue a primeira carta do baralho de Pautas Políticas e coloque-a virada para cima ao
+lado de seu tabuleiro individual, à vista de todos os jogadores.
+Pegar Cartas de Ação
+Pegue 5 cartas de Ação do seu baralho (completando sua mão de 7 cartas). Mantenha
+essas cartas escondidas dos outros jogadores.
+
+
+Algumas cartas de Ação permitem às classes Capitalista e Média vender recursos
+para o Estado. Elas podem vender mais que o Estado é capaz de armazenar? Elas
+podem vender mais do que o Estado é capaz de pagar e, desse modo, obrigá-lo a
+contrair um Empréstimo?
+Os jogadores não podem vender mais recursos do que o Estado é capaz de armazenar. No entanto, supondo-se que o Estado tenha espaço suficiente nos Estoques para
+armazenar os recursos, os jogadores podem vender acima do que o Estado é capaz de
+pagar. Nesse caso, as regras preveem que o Estado deverá contrair um Empréstimo.
+Certas cartas de Ação, como Elevação do IVA (e também uma das Ações Básicas do
+Estado), permitem ao Estado receber um benefício, mas reduzir sua Legitimidade. O
+Estado poderia executar essas ações se sua Legitimidade já estivesse em 1?
+Não. O Estado deve ter Legitimidade para perder a fim de executar qualquer uma dessas ações.
+
+
+
+Durante a Fase Tática, resolva os próximos passos na ordem
+indicada. Na primeira rodada pule os dois primeiros passos e
+proceda diretamente para o terceiro.
+1. Determine o Jogador Inicial (pule na primeira rodada)
+O jogador que tem o marcador de primeiro jogador passa o
+marcado para o jogador a sua esquerda.
+2.Jogue uma resposta tática (pule na primeira rodada)
+Caso deseje, um jogador (e somente um), pode jogar uma carta
+de resposta tática da sua mão (veja “Cartas de Resposta Tática”).
+Se mais de um jogador deseja jogar a carta de resposta tática e
+o grupo não conseguir decidir quem irá jogar a carta, o jogador
+inicial tem a escolha final.
+
+[Nota: Observe das caracteristicas especiais impressas de
+cada criatura. Nela há regras especiais únicas que devem
+ser aplicadas quando necessário.]
+Embaralhe as cartas de evento e pegue o número indicado
+pela missão, Retorne o resto para a caixa. Então, separe as
+cartas de descobertas especificadas no Relatório da Missão
+e embaralhe-as junto com as cartas de evento separadas para
+formar o deck de reconhecimeto.
+[Nota: O deck de reconhecimento terá sempre 12 cartas!]
+
+
+
+d. As peças de Mapa são sempre orientadas em uma direção
+c. Alguns efeitos permitem diretamente que você se mova um
+1. Você pode se mover em um Turno Normal (mas não
+Descansar). Você pode revelar novas peças de Mapa durante o
+Movimento. Todo o Movimento precisa ser completado antes
+de você realizar qualquer ação (combate ou interação com
+habitantes locais).
+
+2. Ao se mover, você pode jogar quantos efeitos de movimento
+desejar. A maioria desses efeitos gera pontos de
+Movimento.
+a. Você pode jogar de sua Mão quantas cartas de movimento
+quiser (e potencializá-las com mana que tenha disponível),
+usar Poderes de movimento ou ativar Unidades com
+habilidades de movimento.
+b. O efeito Movimento X significa que “você ganha X pontos
+de Movimento”.
+c. Qualquer carta (exceto um Ferimento) pode ser jogada de
+lado em uma coluna de movimento para somar Movimento 1.
+d. Os jogadores também podem jogar quantos efeitos especiais
+e de Cura quiserem durante o movimento.
+3. Some os pontos de Movimento das cartas e efeitos jogados.
+Você então pode mover sua miniatura, espaço por espaço,
+gastando pontos de Movimento de acordo com o tipo de
+terreno para o qual está se movendo (conforme indicado no
+Tabuleiro de Dia/Noite). Você só pode se mover para espaços
+adjacentes que sejam acessíveis.
+a. Os espaços marcados com X no Tabuleiro de Dia/Noite não
+são acessíveis.
+ Observação: O custo de se mover para um terreno de
+Deserto ou Floresta varia se for Dia ou Noite.
+ Observação: O custo de se mover para uma cidade é
+sempre 2, não importando o tipo de terreno mostrado no
+espaço dela.
+4. Limitações:
+a. Se você entrar em um local fortificado ainda não
+conquistado (forte, torre de mago ou cidade) ou que tenha
+um forte pertencente a outro jogador, o seu movimento
+acaba imediatamente, e considera-se que você está
+invadindo o local.
+b. Você não pode entrar em um espaço ocupado por um
+inimigo irascível (orcs saqueadores ou draconum) até que
+ele tenha sido derrotado.
+c. Se você provocar um inimigo irascível (ou seja, mover-se
+de um espaço adjacente ao da ficha dele para outro espaço
+adjacente à mesma ficha), você é atacado por esse inimigo e
+seu movimento acaba imediatamente.
+d. Entrar em um espaço com um local de aventura (ruínas,
+covil de monstros, nascedouro, calabouço ou sepulcro)
+não necessariamente termina o seu movimento; você pode
+ignorá-lo e tratá-lo como um espaço vazio, mesmo que haja
+fichas de inimigo.
+5. Durante o movimento, você pode revelar novas peças de
+Mapa:
+a. Você só pode revelar novas peças de Mapa se estiver
+adjacente a uma posição à qual uma nova peça possa ser
+adicionada.
+
+
+
+Regra: Colocar a bola morta: Um atleta não pode intencionalmente colocar uma bola morta.
+Penalização: Reinicio no varão de 5.
+Regra: Infração por flexão: Um atleta não pode flexionar/dobrar um varão por forma a obter contacto a
+uma bola considerada como não alcançável.
+Penalização: Reinicio no varão de 5.
+Interpretação
+1. Uma bola presa num buraco de serviço ou equilibrada em cima do varão do guarda redes é
+considerada uma bola morta.
+2. O arremesso da bola abaixo da linha média é considerada uma tentativa de colocar a bola morta.
+
+4.5 - BOLA FORA DA MESA
+Uma bola é declarada como fora da mesa por um árbitro, ou na ausência de um árbitro, por acordo entre as
+equipas/atletas. A equipa responsável pela transição controlada que colocou a bola fora da mesa é
+identificada, e a bola é colocada de novo em jogo no varão da defesa da equipa adversária.
+
+
+
+11.2.3.2 o jogador com a vez de jogar sair da área de jogo
+11.2.3.3 uma pessoa que não seja um jogador ou árbitro ter acesso à área de jogo.
+11.2.4 Os regulamentos de um evento podem especificar que o adversário do jogador que tem
+a vez de jogar deve avisar o árbitro quando pretender sair da área de jogo.
+11.3.1 Durante a partida os jogadores estão proibidos de usar quaisquer anotações, fontes de
+informação ou aconselhamento, ou analisar qualquer partida noutro tabuleiro.
+11.3.2.1 Durante uma partida, é proibido a um jogador ter qualquer dispositivo eletrónico no
+local de jogo sem aprovação específica do árbitro. Contudo, os regulamentos de um evento
+podem permitir que tais dispositivos sejam guardados numa bolsa do jogador, desde que
+completamente desligados. Esta bolsa deve ser guardada conforme instruções do árbitro.
+Ambos os jogadores ficam proibidos de usar esta bolsa sem a permissão do árbitro.
+11.3.2.2 Se for evidente que um jogador tenha consigo tais dispositivos no local de jogo,
+deverá perder a partida. O adversário deverá vencer. Os regulamentos de um evento podem
+especificar penalidade diferente, menos severa.
+11.3.3 O árbitro pode solicitar ao jogador que permita a revista das suas roupas, bolsas, outros
+itens ou corpo para serem inspecionados, em privado. O árbitro ou uma pessoa autorizada
+pelo árbitro deverá revistar o jogador, e deverá ser do mesmo género do jogador. Se um
+jogador se recusar a cooperar com estas obrigações, o árbitro deve tomar medidas de acordo
+com o disposto no Artigo 12.9.
+11.3.4 Fumar, inclusive e-cigarros, somente é permitido na área do local de jogo especificada
+pelo árbitro.
+11.4 Os jogadores que tiverem terminado as suas partidas devem ser considerados como
+espectadores.
+11.5 É proibido distrair ou perturbar o adversário de qualquer maneira. Isto inclui reclamações
+sem cabimento, ofertas de empate também sem cabimento ou introdução de qualquer fonte
+de ruído na área de jogo.
+11.6 Infrações a qualquer parte dos Artigos 11.1 a 11.5 deverão redundar em aplicação das
+penalidades previstas no Artigo 12.9.
+11.7 A persistente recusa por parte de um jogador em cumprir as Leis do Xadrez deverá ser
+penalizada com a perda da partida. O árbitro deverá decidir a pontuação do adversário.
+11.8 Se ambos jogadores forem considerados culpados de acordo com o Artigo 11.7, a partida
+será declarada perdida para ambos os jogadores.
+11.9 Um jogador deve ter o direito de solicitar ao árbitro uma explanação sobre pontos
+específicos da Lei do Xadrez.
+
+
+
+Cada clareira, independente da quantidade de peças suas presentes, só
+permite revelar uma carta correspondente.
+Influenciar o Ministro e Pontuar. Pegue a carta de ministro escolhida e coloque-a acima de
+seu tabuleiro de facção. Pegue uma coroa daquele nível de ministro, proveniente de seu tabuleiro de facção, e a coloque sobre a carta de
+ministro. Receba os PVs mostrados no espaço
+revelado de seu tabuleiro de facção.
+
+12.6 Anoitecer
+
+Seu Anoitecer possui três passos, realizados na ordem
+abaixo.
+12.6.1 Descarte e Retorne Cartas Reveladas. Descarte
+quaisquer cartas de pássaro que você revelou nesta rodada e, depois, retorne todas as demais cartas
+reveladas por você neste turno para sua mão.
+12.6.2 Criar. Você pode criar ativando cidadelas e mercados. (Ambas funcionam de forma idêntica para este fim.)
+12.6.3 Compre e Descarte. Compre 1 carta, mais 1 para
+cada bônus de compra não coberto. Depois, se
+você possuir mais que 5 cartas na mão, descarte
+quaisquer cartas até que reste apenas 5.
+
+13. Conspiração Corvídea C
+13.1 Resumo
+
+A Conspiração Corvídea quer submeter a Floresta da Madeira através da realização de tramas criminosas, recebendo
+pontos cada vez que eles revelam um marcador de trama.
+Quanto mais tramas reveladas no mapa, mais pontos eles
+recebem. Distrações são fundamentais – caso seus planos
+sejam muito óbvios, a Conspiração se arrisca a ser exposta.
+Para evitar isto, eles devem recrutar cuidadosamente e buscar
+quaisquer oportunidades de subterfúgios e extorsão.
+
+13.2 Regras da Facção e Habilidades
+Criar. A Conspiração cria durante o Amanhecer,
+ativando marcadores de trama (revelados ou não).
+13.2.2 Marcadores de Trama. A Conspiração possui 8
+marcadores de trama, dois de cada tipo.
+I Apresentação. Enquanto estiverem no estoque da
+Conspiração, os marcadores de trama são deixados
+virados (pena). Uma vez no mapa, um marcador
+de trama pode estar virado para cima (ícone único)
+ou para baixo. A Conspiração pode inspecionar
+quaisquer marcadores voltados para baixo a qualquer momento.
+II Limites de Posicionamento. Cada clareira pode
+acomodar apenas um único marcador de trama.
+13.2.3 Ágeis. A Conspiração pode mover-se independente
+de quem governe a clareira inicial e a final (4.2.1).
+13.2.4 Exposição. A qualquer momento em seus turnos, porém antes de comprar quaisquer cartas no Anoitecer,
+um jogador inimigo que possua pelo menos uma peça
+em uma clareira contendo um marcador de trama virado para baixo, pode mostrar para a Conspiração uma
+carta correspondente para tentar adivinhar o tipo de
+marcador de conspiração presente na clareira. Caso
+erre, a Conspiração responde "não" e o jogador inimigo entrega a carta mostrada para a Conspiração. Caso
+acerte, o jogador inimigo remove o marcador de trama
+(recebendo 1 PV) e ignora seu efeito.
+13.2.5 Agentes Escondidos. Como defensor em batalha,
+caso a Conspiração possua um marcador de trama
+virado para baixo na clareira da batalha (mesmo
+que esteja indefeso), ela realiza 1 dano adicional.

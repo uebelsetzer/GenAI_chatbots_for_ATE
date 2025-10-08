@@ -1,0 +1,36 @@
+-- Zero-shot prompt:
+I am working on a terminology extraction project that considers the Portuguese-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+
+-- One-shot prompt:
+I am working on a terminology extraction project that considers the Portuguese-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is an example of term from the board games domain (this term does not appear in the provided sample), for reference: final do jogo.
+
+-- Few-shot prompt:
+I am working on a terminology extraction project that considers the Portuguese-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the board games domain (these terms do not appear in the provided sample), for reference: final do jogo, artefato, pilha, jogador fictício, exaurir, ficha de combate.
+
+-- Few-shot prompt + context sentences:
+I am working on a terminology extraction project that considers the Portuguese-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the board games domain (these terms do not appear in the provided sample), each accompanied by an example-sentence, for reference: 
+
+Example 1: final do jogo
+Estoque Secreto: No final do jogo, ganhe 1 ponto por recurso na sua Mochila.
+
+Example 2: artefato
+No fim do seu Turno, reivindique um Artefato como recompensa.
+
+Example 3: pilha
+O jogador compra as 3 primeiras cartas de Souvenir da pilha e as coloca voltadas para cima à sua frente.
+
+Example 4: jogador fictício
+Ao contrário dos jogadores reais, o jogador fictício pode ter mais do que 3 cristais da mesma cor.
+
+Example 5: exaurir
+Você pode exaurir itens para realizar as seguintes ações, em qualquer ordem e combinação.
+
+Example 6: ficha de combate
+Execute Ataques X separados contra cada ficha de combate afetada.
+
+
+-- Possible follow-up prompts (used with NotebookLM):
+Since you did not provide a single-column output, please provide the output in a comma-separated format.

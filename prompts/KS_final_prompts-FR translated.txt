@@ -1,0 +1,33 @@
+--Zero-shot--
+Je travaille sur un projet d’extraction de terminologie qui prend en compte la terminologie en langue française utilisée dans le kitesurf. Ci-joint, je fournis un échantillon de texte d’environ 2 000 tokens provenant du domaine du kitesurf. En tenant compte des principes de la terminologie, j’ai besoin que vous créiez une liste exhaustive des termes de kitesurf présents dans l’échantillon. Ces termes peuvent être constitués de mots simples ou de groupes de mots, et un terme complexe peut être formé de différents termes simples (et tous doivent être extraits). Il est très important que la liste extraite soit exhaustive et contienne tous les termes apparaissant dans l’échantillon fourni. La liste doit être formatée en une seule colonne, avec un terme par ligne. Je n’ai pas besoin de définition ni de contexte d’occurrence, mais les termes extraits doivent apparaître dans l’échantillon fourni.
+
+--One-shot--
+Je travaille sur un projet d’extraction de terminologie qui prend en compte la terminologie en langue française utilisée dans le kitesurf. Ci-joint, je fournis un échantillon de texte d’environ 2 000 tokens provenant du domaine du kitesurf. En tenant compte des principes de la terminologie, j’ai besoin que vous créiez une liste exhaustive des termes de kitesurf présents dans l’échantillon. Ces termes peuvent être constitués de mots simples ou de groupes de mots, et un terme complexe peut être formé de différents termes simples (et tous doivent être extraits). Il est très important que la liste extraite soit exhaustive et contienne tous les termes apparaissant dans l’échantillon fourni. La liste doit être formatée en une seule colonne, avec un terme par ligne. Je n’ai pas besoin de définition ni de contexte d’occurrence, mais les termes extraits doivent apparaître dans l’échantillon fourni.
+Voici un exemple de terme provenant du domaine du kitesurf (ce terme n'apparaît pas dans l'échantillon fourni), à titre de référence : leash.
+
+--Few-shots-- 
+Je travaille sur un projet d’extraction de terminologie qui prend en compte la terminologie en langue française utilisée dans le kitesurf. Ci-joint, je fournis un échantillon de texte d’environ 2 000 tokens provenant du domaine du kitesurf. En tenant compte des principes de la terminologie, j’ai besoin que vous créiez une liste exhaustive des termes de kitesurf présents dans l’échantillon. Ces termes peuvent être constitués de mots simples ou de groupes de mots, et un terme complexe peut être formé de différents termes simples (et tous doivent être extraits). Il est très important que la liste extraite soit exhaustive et contienne tous les termes apparaissant dans l’échantillon fourni. La liste doit être formatée en une seule colonne, avec un terme par ligne. Je n’ai pas besoin de définition ni de contexte d’occurrence, mais les termes extraits doivent apparaître dans l’échantillon fourni.
+Voici une liste de termes provenant du domaine du kitesurf (ces termes n’apparaissent pas dans l’échantillon fourni), à titre de référence : leash, kitesurfer, freeride, chickenloop, depower, kiter.
+
+
+-- Few-shot prompt + context sentences:
+Je travaille sur un projet d’extraction de terminologie qui prend en compte la terminologie en langue française utilisée dans le kitesurf. Ci-joint, je fournis un échantillon de texte d’environ 2 000 tokens provenant du domaine du kitesurf. En tenant compte des principes de la terminologie, j’ai besoin que vous créiez une liste exhaustive des termes de kitesurf présents dans l’échantillon. Ces termes peuvent être constitués de mots simples ou de groupes de mots, et un terme complexe peut être formé de différents termes simples (et tous doivent être extraits). Il est très important que la liste extraite soit exhaustive et contienne tous les termes apparaissant dans l’échantillon fourni. La liste doit être formatée en une seule colonne, avec un terme par ligne. Je n’ai pas besoin de définition ni de contexte d’occurrence, mais les termes extraits doivent apparaître dans l’échantillon fourni.
+Voici une liste de termes provenant du domaine du kitesurf (ces termes n’apparaissent pas dans l’échantillon fourni), chacun accompagné d’une phrase d’exemple, à titre de référence :
+
+Exemple 1: leash
+Une ligne de frein attachée aux lignes de direction créera un atterrissage automatique facile ou fonctionnera comme une sécurité avec le leash de sécurité.
+
+Exemple 2: kitesurfer
+On ne pense pas toujours à mener une analyse approfondie de la barre de contrôle, pourtant, c'est l'interface permanente entre le kitesurfer et son aile.
+
+Exemple 3: freeride
+De plus, certaines planches sont dotées de caractéristiques spécifiques, comme des channels ou des concaves, qui améliorent la prise de vitesse et le contrôle dans les vagues. Les riders expérimentés choisissent souvent leur planche en fonction de leur style de navigation, qu’il s’agisse de freestyle, de freeride ou de vagues. 
+
+Exemple 4: chickenloop
+Il empêche la partie Y de remonter trop haut et maintient ta barre près de toi lorsque tu relâches le chickenloop. 
+
+Exemple 5: depower
+La barre utilisée pour le kitesurf se compose d'une barre de contrôle, de lignes de direction, de power lignes, d'un système de depower, d'un chickenloop, d'un quick release, d'une séparation en V, d'une ligne de sécurité et d'une ligne de depower.
+
+Exemple 6: kiter
+Et si toi, kiter confirmé, tu es tenté par les nouvelles expériences dans le sport de glisse, et que tu t’aimerais éprouver des sensations encore plus extrêmes, essaie sans plus hésiter le kite-foiling !

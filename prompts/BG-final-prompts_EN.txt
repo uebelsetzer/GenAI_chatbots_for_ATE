@@ -1,0 +1,37 @@
+-- Zero-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+
+-- One-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is an example of term from the board games domain (this term does not appear in the provided sample), for reference: action card.
+
+-- Few-shot prompt:
+I am working on a terminology extraction project that considers the English-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the board games domain (these terms do not appear in the provided sample), for reference: action card, leftmost, VP, faction board, potion, discard pile.
+
+-- Few-shot prompt + context sentences:
+I am working on a terminology extraction project that considers the English-language terminology used in board games. Attached, I am providing a sample of around 2 thousand tokens that is composed by different text extracts from the domain of board games. Considering the principles of Terminology, I need you to create a comprehensive list of board game terms present in the sample. These terms can be formed by single words, or they can be multiword terms, and a multiword term might be formed by different single-word terms (and all of them should be extracted). It is very important for the extracted list to be comprehensive and to contain all terms that appear in the provided sample. The list should be formatted as a single-column output, with one term per line. I don't need definition nor context of occurrence, but the extracted terms must appear in the sample that was provided.
+Here is a list of terms from the board games domain (these terms do not appear in the provided sample), each accompanied by an example-sentence, for reference: 
+
+Example 1: action card
+Each such action card may be used once each generation.
+
+Example 2: leftmost
+If there is only one row left, remove the leftmost token from it.
+
+Example 3: VP
+Greenery tiles are worth 1 VP at the end of the game, and also generate a VP to any adjacent city (see city tile rules).
+
+Example 4: faction board
+If you are prompted to place a building, take the leftmost building from its track on your faction board.
+
+Example 5: potion
+You may now use any one Potion available in your inventory.
+
+Example 6: discard pile
+If you play through an entire deck of cards, shuffle that deck's discard pile and keep playing.
+
+
+
+-- Possible follow-up prompts (used with NotebookLM):
+Since you did not provide a single-column output, please provide the output in a comma-separated format.

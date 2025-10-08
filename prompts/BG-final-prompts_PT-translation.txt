@@ -1,0 +1,36 @@
+-- Zero-shot prompt:
+Eu estou trabalhando em um projeto de extração terminológica que considera a terminologia de língua Portuguesa utilizada em jogos de tabuleiro. Em anexo, eu coloquei uma amostra textual da área de jogos de tabuleiro com cerca de 2 mil itens. Levando em conta os princípios da Terminologia, você deve criar uma lista completa dos termos de jogos de tabuleiro presentes nessa amostra. Esses termos podem ser formados por uma ou mais palavras, e um termo multipalavra pode conter outros termos de uma palavra (e todos eles devem ser extraídos). É muito importante que a lista seja completa e apresente todos os termos presentes na amostra fornecida. A lista gerada deve conter apenas uma coluna, com um termo por linha. Eu não preciso de definições nem contextos de ocorrência, mas os termos extraídos devem estar presentes na amostra que foi fornecida.
+
+-- One-shot prompt:
+Eu estou trabalhando em um projeto de extração terminológica que considera a terminologia de língua Portuguesa utilizada em jogos de tabuleiro. Em anexo, eu coloquei uma amostra textual da área de jogos de tabuleiro com cerca de 2 mil itens. Levando em conta os princípios da Terminologia, você deve criar uma lista completa dos termos de jogos de tabuleiro presentes nessa amostra. Esses termos podem ser formados por uma ou mais palavras, e um termo multipalavra pode conter outros termos de uma palavra (e todos eles devem ser extraídos). É muito importante que a lista seja completa e apresente todos os termos presentes na amostra fornecida. A lista gerada deve conter apenas uma coluna, com um termo por linha. Eu não preciso de definições nem contextos de ocorrência, mas os termos extraídos devem estar presentes na amostra que foi fornecida.
+Eis aqui um termo da área de jogos de tabuleiro que não aparece na amostra fornecida, para sua referência: final do jogo.
+
+-- Few-shot prompt:
+Eu estou trabalhando em um projeto de extração terminológica que considera a terminologia de língua Portuguesa utilizada em jogos de tabuleiro. Em anexo, eu coloquei uma amostra textual da área de jogos de tabuleiro com cerca de 2 mil itens. Levando em conta os princípios da Terminologia, você deve criar uma lista completa dos termos de jogos de tabuleiro presentes nessa amostra. Esses termos podem ser formados por uma ou mais palavras, e um termo multipalavra pode conter outros termos de uma palavra (e todos eles devem ser extraídos). É muito importante que a lista seja completa e apresente todos os termos presentes na amostra fornecida. A lista gerada deve conter apenas uma coluna, com um termo por linha. Eu não preciso de definições nem contextos de ocorrência, mas os termos extraídos devem estar presentes na amostra que foi fornecida.
+Eis aqui uma lista com termos, separados por vírgula, da área de jogos de tabuleiro para sua referência (esses termos não aparecem na amostra fornecida): final do jogo, artefato, pilha, jogador fictício, área, ficha de combate.
+
+-- Few-shot prompt + context sentences:
+Eu estou trabalhando em um projeto de extração terminológica que considera a terminologia de língua Portuguesa utilizada em jogos de tabuleiro. Em anexo, eu coloquei uma amostra textual da área de jogos de tabuleiro com cerca de 2 mil itens. Levando em conta os princípios da Terminologia, você deve criar uma lista completa dos termos de jogos de tabuleiro presentes nessa amostra. Esses termos podem ser formados por uma ou mais palavras, e um termo multipalavra pode conter outros termos de uma palavra (e todos eles devem ser extraídos). É muito importante que a lista seja completa e apresente todos os termos presentes na amostra fornecida. A lista gerada deve conter apenas uma coluna, com um termo por linha. Eu não preciso de definições nem contextos de ocorrência, mas os termos extraídos devem estar presentes na amostra que foi fornecida.
+Eis aqui uma lista com termos da área de jogos de tabuleiro, cada um deles vem acompanhado de uma frase-exemplo, para sua referência (esses termos não aparecem na amostra fornecida):
+
+Exemplo 1: final do jogo
+Estoque Secreto: No final do jogo, ganhe 1 ponto por recurso na sua Mochila.
+
+Exemplo 2: artefato
+No fim do seu Turno, reivindique um Artefato como recompensa.
+
+Exemplo 3: pilha
+O jogador compra as 3 primeiras cartas de Souvenir da pilha e as coloca voltadas para cima à sua frente.
+
+Exemplo 4: jogador fictício
+Ao contrário dos jogadores reais, o jogador fictício pode ter mais do que 3 cristais da mesma cor.
+
+Exemplo 5: área
+Cada Estoque tem um limite de armazenagem, indicado na base da área, que determina quantos recursos podem ser guardados ali.
+
+Exemplo 6: ficha de combate
+Execute Ataques X separados contra cada ficha de combate afetada.
+
+
+-- Possible follow-up prompts (used with NotebookLM):
+Considerando que a saída fornecida não está formatada em uma coluna, por favor, gere essa saída em formato separado por vírgulas.
